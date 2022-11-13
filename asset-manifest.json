@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github-battles/static/css/main.ff1a0e19.css",
+    "main.js": "/github-battles/static/js/main.d5b35cf0.js",
+    "static/js/787.c81b91d2.chunk.js": "/github-battles/static/js/787.c81b91d2.chunk.js",
+    "index.html": "/github-battles/index.html",
+    "main.ff1a0e19.css.map": "/github-battles/static/css/main.ff1a0e19.css.map",
+    "main.d5b35cf0.js.map": "/github-battles/static/js/main.d5b35cf0.js.map",
+    "787.c81b91d2.chunk.js.map": "/github-battles/static/js/787.c81b91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1a0e19.css",
+    "static/js/main.d5b35cf0.js"
+  ]
+}
