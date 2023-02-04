@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github-battles/static/css/main.e33c3eed.css",
-    "main.js": "/github-battles/static/js/main.139796fa.js",
+    "main.js": "/github-battles/static/js/main.8c5c4cff.js",
     "static/js/787.c81b91d2.chunk.js": "/github-battles/static/js/787.c81b91d2.chunk.js",
     "static/media/bg.jpg": "/github-battles/static/media/bg.d860b9c0bfd00f9cdd54.jpg",
     "index.html": "/github-battles/index.html",
     "main.e33c3eed.css.map": "/github-battles/static/css/main.e33c3eed.css.map",
-    "main.139796fa.js.map": "/github-battles/static/js/main.139796fa.js.map",
+    "main.8c5c4cff.js.map": "/github-battles/static/js/main.8c5c4cff.js.map",
     "787.c81b91d2.chunk.js.map": "/github-battles/static/js/787.c81b91d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e33c3eed.css",
-    "static/js/main.139796fa.js"
+    "static/js/main.8c5c4cff.js"
   ]
 }
