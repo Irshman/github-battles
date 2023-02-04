@@ -10,7 +10,7 @@ const Header = () => {
         return (
           <li className='header__item' key={index}>
             <NavLink
-              to={navLink === 'Home' ? '/' : navLink.toLowerCase()}
+              to={navLink === 'Home' ? '/home' : navLink.toLowerCase()}
               end>
               {navLink}
             </NavLink>
