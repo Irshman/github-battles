@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/github-battles/static/css/main.ff1a0e19.css",
-    "main.js": "/github-battles/static/js/main.d5b35cf0.js",
+    "main.css": "/github-battles/static/css/main.e33c3eed.css",
+    "main.js": "/github-battles/static/js/main.a34d84ee.js",
     "static/js/787.c81b91d2.chunk.js": "/github-battles/static/js/787.c81b91d2.chunk.js",
+    "static/media/bg.jpg": "/github-battles/static/media/bg.d860b9c0bfd00f9cdd54.jpg",
     "index.html": "/github-battles/index.html",
-    "main.ff1a0e19.css.map": "/github-battles/static/css/main.ff1a0e19.css.map",
-    "main.d5b35cf0.js.map": "/github-battles/static/js/main.d5b35cf0.js.map",
+    "main.e33c3eed.css.map": "/github-battles/static/css/main.e33c3eed.css.map",
+    "main.a34d84ee.js.map": "/github-battles/static/js/main.a34d84ee.js.map",
     "787.c81b91d2.chunk.js.map": "/github-battles/static/js/787.c81b91d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff1a0e19.css",
-    "static/js/main.d5b35cf0.js"
+    "static/css/main.e33c3eed.css",
+    "static/js/main.a34d84ee.js"
   ]
 }
