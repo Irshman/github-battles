@@ -13,10 +13,10 @@ function App() {
         <div className="container">
           <Header />
           <Routes>
-            <Route path="/github-battles/" element={<Home />} />
-            <Route path="/github-battles/popular" element={<Popular />} />
-            <Route path="/github-battles/battle" element={<Battle />} />
-            <Route path="/github-battles/battle/results" element={<Results />} />
+            <Route path="github-battles/" element={<Home />} />
+            <Route path="github-battles/popular" element={<Popular />} />
+            <Route path="github-battles/battle" element={<Battle />} />
+            <Route path="github-battles/battle/results" element={<Results />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </div>
